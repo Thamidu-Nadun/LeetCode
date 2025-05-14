@@ -59,7 +59,7 @@ Here’s a simple overview of my progress:
 | Category | Solved Problems | Total Problems |
 | -------- | --------------- | -------------- |
 | Easy     | 6               | 50             |
-| Medium   | 7               | 50             |
+| Medium   | 8               | 50             |
 | Hard     | 0               | 30             |
 
 I keep updating this table as I solve more problems, tracking my progress along the way.
