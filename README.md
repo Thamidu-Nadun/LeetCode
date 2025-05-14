@@ -1,7 +1,7 @@
 # LeetCode Solutions
 
 <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" alt="LeetCode Banner" />
+  <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo.c36eaf5e6.svg" alt="LeetCode Banner" />
 </p>
 
 Welcome to my personal repository of LeetCode solutions! This repository is a collection of problems I’ve solved in my own way as part of my learning journey and interview prep. I'm following the **NeetCode.io** roadmap, and this is my effort to build a strong foundation in data structures and algorithms (DSA).
