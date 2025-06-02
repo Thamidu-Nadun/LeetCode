@@ -1,1 +1,1 @@
-- [ ] Code: 3046, Company: Visa, Name: Split the array, Level: Easy?
+- [X] Code: 3046, Company: Visa, Name: Split the array, Level: Easy?
